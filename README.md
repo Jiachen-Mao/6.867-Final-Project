@@ -3,5 +3,5 @@
 A supervised-learning trial to predict hourly urban electricity load
 
 * Decision tree using R
-* Support vector regression (optimized via heuristics) using MATLAB
-* LSTM neural network using Python
+* Support vector machine (optimized via genetic algorithm) using MATLAB
+* LSTM neural network using Python and Keras
